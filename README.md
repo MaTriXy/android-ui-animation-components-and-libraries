@@ -1,5 +1,5 @@
 # Android UI Animation Libraries
-A curated list of Android libraries, UI components and custom animations developed by [@ramotion](https://github.com/RamotionDev)
+A curated list of Android libraries, UI components and custom animations developed by [@RamotionDev](https://github.com/RamotionDev)
 
 ## Content
 
@@ -98,15 +98,15 @@ All the Android libraries released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
 ## Get the Showroom App for Android to give it a try
-Try this UI component and more like this in our Android app. Contact us if interested.
+Try this UI components and more like this in our Android app. Contact us if interested.
 
 <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
 <img src="https://github.com/Ramotion/android-ui-animation-components-libraries/blob/master/gifs/google_badge.png" width="114" height="34"></a>
 
-<a href="https://dev.ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=android-libraries-contact-us">
+<a href="mailto:alex.a@ramotion.com?subject=Project%20inquiry%20from%20Github">
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 
-## Follow us for the latest updates<br>
+## Follow us for the latest updates:<br>
 
 <!-- Place this tag where you want the button to render. -->
 <a href="https://goo.gl/rPFpid" >
